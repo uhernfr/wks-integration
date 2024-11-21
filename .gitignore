@@ -1,0 +1,74 @@
+# Compiled binary files
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# VS Code files
+.vscode/
+
+# Visual Studio files
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]pplication[Int]ights/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Entity Framework migrations
+migrations/
+
+# Rider/JetBrains files
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# dotCover
+*.dotCover
+
+# StyleCop
+StyleCopReport.xml
+
+# Roslyn
+*.cache/
+*.ide.log
+
+# Cake
+tools/
+.cake/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Web files
+wwwroot/node_modules/
+wwwroot/lib/
+
+# Others
+*.tmp
+*.temp
+*.bak
+*.log
+*.swp

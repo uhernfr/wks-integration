@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "wks_integracao": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
